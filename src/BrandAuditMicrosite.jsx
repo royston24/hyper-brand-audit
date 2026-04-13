@@ -56,7 +56,7 @@ const LABEL = {
 /* Body copy — Medium (500) for legibility at small sizes */
 const BODY = {
   fontFamily: T.F, fontWeight: 500,
-  lineHeight: 1.8, fontSize: "1rem",
+  lineHeight: 1.8, fontSize: "0.82rem",
 };
 
 /* ── Context-aware text helpers (adapts to light/dark section bg) ── */

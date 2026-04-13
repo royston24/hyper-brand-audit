@@ -1099,7 +1099,7 @@ export default function BrandAudit() {
               </p>
               <div style={{ display:"flex", justifyContent:"center", gap:"14px", flexWrap:"wrap" }}>
                 <Btn bg={ctaBg} outline onClick={()=>setShowReport(true)}>Download Report</Btn>
-                <a href="https://www.hypercreatives.agency" target="_blank" rel="noreferrer"
+                <a href="https://calendar.app.google/XAQpnFi63ErtXXGFA" target="_blank" rel="noreferrer"
                   style={{ ...DISP, fontSize:"0.7rem", letterSpacing:"0.1em", padding:"14px 32px", background:T.white, color:T.bg, textDecoration:"none", display:"inline-block" }}>
                   Book a Discovery Call
                 </a>

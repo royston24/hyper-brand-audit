@@ -51,7 +51,7 @@ const SUBHEAD = {
 /* Small eyebrow labels — Medium, very wide tracking */
 const LABEL = {
   fontFamily: T.F, fontWeight: 500,
-  fontSize: "1.00rem", letterSpacing: "0.18em", textTransform: "uppercase",
+  fontSize: "0.7rem", letterSpacing: "0.18em", textTransform: "uppercase",
 };
 /* Body copy — Medium (500) for legibility at small sizes */
 const BODY = {

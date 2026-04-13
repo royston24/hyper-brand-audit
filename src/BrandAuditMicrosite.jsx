@@ -4,8 +4,8 @@ import { useState } from "react";
    Two separate forms — one fires at the lead gate, one at quiz completion.
    Go to formspree.io → New Form for each → paste the IDs below.
 ────────────────────────────────────────────────────────────────────────────── */
-const FS_LEAD    = "xbdzwlrz"; // ← Form 1: "Brand Audit — Lead Capture"
-const FS_RESULTS = "xbdzwlrz"; // ← Form 2: "Brand Audit — Full Results"
+const FS_LEAD    = "mkopgqlj"; // ← Form 1: "Brand Audit — Lead Capture"
+const FS_RESULTS = "mwvwprdb"; // ← Form 2: "Brand Audit — Full Results"
 
 /* ─────────────────────────────────────────────────────────────────────────────
    DESIGN TOKENS
